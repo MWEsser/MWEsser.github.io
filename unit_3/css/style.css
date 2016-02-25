@@ -1,0 +1,86 @@
+body {
+	background-color: rgba(150,150,150,0.8);
+	background-image: url("images/sunet_san_francisco.jpg");
+	background-size: cover;
+	
+}
+img {
+	border-radius: 23px;
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 70px;
+	opacity: 0.4;
+     
+}
+
+img:hover {
+
+    opacity: 1.0;
+    
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #514647;
+	font-family: Helvetica;
+	font-size: 48px;
+	opacity: 0.4
+}
+h1:hover {
+	opacity: 1.0
+}
+h2	{
+	text-align: center;
+	font-family: Helvetica;
+	color: #514647;
+	opacity: 0.4
+}
+h2:hover {
+	opacity: 1.0
+}
+
+p {
+	text-align: justify;
+	padding-right: 356px;
+	padding-left: 356px;
+	font-family: Courier; 
+	opacity: 0.4
+}
+p:hover {
+	opacity: 1.0;
+}
+ul {
+
+    list-style-type: none;
+	font-family: Courier;
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-bottom: 150px;
+	opacity: 0.4
+
+}
+ul:hover {
+	opacity: 1.0;
+}
+li {
+	text-align: center;
+
+}
+a {
+	text-decoration: none;
+	color: rgba(173,0,0,0.3);
+}
+a:hover {
+	color: rgb(255,0,0);
+}
+#slogan {
+	text-align: center;
+	font-weight: bold;
+	padding: 48px;
+	
+}
+#resume {
+	font-style: italic;
+	
+}
